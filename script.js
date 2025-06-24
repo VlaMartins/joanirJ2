@@ -6,6 +6,5 @@ function inserirNome(){ //nome da função
    // la no html esta escrito usuario, e esse texto vai ficar armazenado na variavel elemento
    elemento.textContent = nomeUsuario; 
    // o conteudo do nome-usuario vai ser substituido pela variavel informada pelo usuario na primeira linha dentro da função...  UMA VARIAVEL VAI SER SUBSTITUIDA PELO CONTEUDO QUE JA ESTA ARMAZENADO EM OUTRA VARIAVEL
-
-   inserirNome();
 }
+   inserirNome();
