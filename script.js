@@ -10,15 +10,30 @@ function inserirNome() { //nome da função
 
 inserirNome();
 
+// xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
-let linguagens = ["Vinho", "Cerveja", "Campari"];
+
+let linguagens = ["Vinho", "Cerveja", "Campari", "pinga"];
 console.log(linguagens[0]); // “JavaScript / Vinho”
 console.log(linguagens[1]) // “Python / Cerveja”
 console.log(linguagens[2]) // “C / Campari ”
-
 
 const item = document.querySelector("#lista");
 item.textContent = linguagens[0];
 item.textContent = linguagens[1];
 item.textContent = linguagens[2];
+
+
+// xxxxxxxxxxxxx xxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxx
+
+let estudantes = ["Enzo", "Joao", "Gabriel"];
+console.log(estudantes[0]); 
+console.log(estudantes[1]); 
+console.log(estudantes[2]); 
+
+
+const item = document.querySelector("#estudantes");
+item.textContent = estudantes[0];
+item.textContent = estudantes[1];
+item.textContent = estudantes[2];
 
