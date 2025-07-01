@@ -12,6 +12,10 @@ inserirNome();
 
 
 let linguagens = ["Vinho", "Cerveja", "Campari"];
-console.log(linguagens[0]) // “JavaScript / Vinho”
+console.log(linguagens[0]); // “JavaScript / Vinho”
 console.log(linguagens[1]) // “Python / Cerveja”
 console.log(linguagens[2]) // “C / Campari ”
+
+
+const item = document.querySelector("#lista");
+item.textContent = linguagens[0];
