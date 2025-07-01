@@ -15,16 +15,16 @@ inserirNome();
 
 // ["Vinho", "Cerveja", "Campari"];
 
-let linguagens = ["JavaScript","Python","C"];
-console.log(linguagens[0]) // “JavaScript”
-console.log(linguagens[1]) // “Python”
-console.log(linguagens[2]) // “C”
+let bebidas = ["Vinho","Cerveja","Campari"];
+console.log(bebidas[0])
+console.log(bebidas[1]) 
+console.log(bebidas[2]) 
 
 
 const item = document.querySelector("#lista");
-item.textContent = linguagens[0];
-item.textContent = linguagens[1];
-item.textContent = linguagens[2];
+item.textContent = bebidas[0];
+item.textContent = bebidas[1];
+item.textContent = bebidas[2];
 
 
 
