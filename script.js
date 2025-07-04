@@ -12,6 +12,20 @@ inserirNome();
 
 // xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
+//codigo 2 abaixo
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 // ["Vinho", "Cerveja", "Campari"];
 
