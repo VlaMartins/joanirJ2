@@ -22,13 +22,11 @@ console.log(bebidas[0])
 console.log(bebidas[1]) 
 console.log(bebidas[2]) 
 
-lista.textContent = linguagens[n];
 
 
-lista.textContent = bebidas[0];
-lista.textContent = bebidas[1];
-lista.textContent = bebidas[2];
 const lista = document.querySelector("#lista");
+lista.textContent = bebidas[n];
+
 
 
 // xxxxxxxxxxxxx xxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxx
