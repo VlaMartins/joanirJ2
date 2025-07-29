@@ -26,4 +26,5 @@ lista.textContent = bebidas[0];
 //lista.textContent = bebidas[2];
 
 // xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
+const objeto = document.querySelector("#aluno");
+objeto.textContent
