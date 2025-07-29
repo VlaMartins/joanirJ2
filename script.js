@@ -20,7 +20,7 @@ inserirNome();
 let bebidas = ["Vinho","Cerveja","Campari"];
 console.log(bebidas[0])
 console.log(bebidas[1]) 
-console.log(bebidas[2]) 
+console.log(bebidas[2]) ;
 
 
 const item = document.querySelector("#lista");
