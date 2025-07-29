@@ -13,7 +13,7 @@ inserirNome();
 // xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 //codigo 2 abaixo
-
+   
 
 // ["Vinho", "Cerveja", "Campari"];
 
@@ -23,10 +23,10 @@ console.log(bebidas[1])
 console.log(bebidas[2]) 
 
 
-const item = document.querySelector("#lista");
-item.textContent = bebidas[0];
-item.textContent = bebidas[1];
-item.textContent = bebidas[2];
+const lista = document.querySelector("#lista");
+lista.textContent = bebidas[0];
+lista.textContent = bebidas[1];
+lista.textContent = bebidas[2];
 
 
 
