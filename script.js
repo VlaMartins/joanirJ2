@@ -25,7 +25,7 @@ console.log(bebidas[2])
 
 
 const lista = document.querySelector("#lista");
-lista.textContent = bebidas[n];
+lista.textContent = bebidas[1];
 
 
 
