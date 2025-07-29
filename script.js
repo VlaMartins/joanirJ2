@@ -11,10 +11,7 @@ function inserirNome() { //nome da função
 inserirNome();
 
 // xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-
 //codigo 2 abaixo
-   
-
 // ["Vinho", "Cerveja", "Campari"];
 
 let bebidas = ["Vinho","Cerveja","Campari"];
@@ -23,24 +20,10 @@ console.log(bebidas[1])
 console.log(bebidas[2]) 
 
 
-
 const lista = document.querySelector("#lista");
 lista.textContent = bebidas[0];
 //lista.textContent = bebidas[1];
 //lista.textContent = bebidas[2];
 
-
-
-// xxxxxxxxxxxxx xxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxx
-
-// let estudantes = ["Enzo", "Joao", "Gabriel"];
-// console.log(estudantes[0]); 
-// console.log(estudantes[1]); 
-// console.log(estudantes[2]); 
-
-
-// const lista = document.querySelector("#estudantes");
-// item.textContent = estudantes[0];
-// item.textContent = estudantes[1];
-// item.textContent = estudantes[2];
+// xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
