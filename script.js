@@ -15,18 +15,6 @@ inserirNome();
 //codigo 2 abaixo
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 // ["Vinho", "Cerveja", "Campari"];
 
 let bebidas = ["Vinho","Cerveja","Campari"];
