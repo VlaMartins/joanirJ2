@@ -10,21 +10,4 @@ function inserirNome() { //nome da função
 
 inserirNome();
 
-// xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-//codigo 2 abaixo
-// ["Vinho", "Cerveja", "Campari"];
 
-let bebidas = ["Vinho","Cerveja","Campari"];
-console.log(bebidas[0])
-console.log(bebidas[1]) 
-console.log(bebidas[2]) 
-
-
-const lista = document.querySelector("#lista");
-lista.textContent = bebidas[0];
-lista.textContent = bebidas[1];
-lista.textContent = bebidas[2];
-
-// xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-const objeto = document.querySelector("#aluno");
-objeto.textContent
