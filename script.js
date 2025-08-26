@@ -10,4 +10,10 @@ function inserirNome() { //nome da função
 
 inserirNome();
 
+console.info('este e um texto de informação');
 
+console.error('este e um texto de errro');
+
+console.warn('este e um texto de alerta');
+
+console.log('texto normal');
