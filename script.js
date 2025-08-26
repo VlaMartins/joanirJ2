@@ -8,13 +8,9 @@ function inserirNome() { //nome da função
    // o conteudo do nome-usuario vai ser substituido pela variavel informada pelo usuario na primeira linha dentro da função...  UMA VARIAVEL VAI SER SUBSTITUIDA PELO CONTEUDO QUE JA ESTA ARMAZENADO EM OUTRA VARIAVEL
 }
 
-//inserirNome();
+inserirNome();
 
 console.info('este e um texto de informação');
 console.error('este e um texto de errro');
 console.warn('este e um texto de alerta');
 console.log('texto normal');
-
-function mostrarAlerta() {
-   inserirNome();
-}
