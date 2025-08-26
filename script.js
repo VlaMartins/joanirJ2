@@ -22,8 +22,8 @@ console.log(bebidas[2])
 
 const lista = document.querySelector("#lista");
 lista.textContent = bebidas[0];
-//lista.textContent = bebidas[1];
-//lista.textContent = bebidas[2];
+lista.textContent = bebidas[1];
+lista.textContent = bebidas[2];
 
 // xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 const objeto = document.querySelector("#aluno");
